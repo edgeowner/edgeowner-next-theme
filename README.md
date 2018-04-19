@@ -1,3 +1,4 @@
+
 # <div align="center"><a href="https://github.com/iissnan/hexo-theme-next"><img align="center" width="56" height="56" src="../../blob/master/source/images/logo.svg"></a> e x T</div>
 
 
@@ -187,5 +188,6 @@ Contribution is welcome, feel free to open an issue and fork. Waiting for your p
 [releases-url]: https://github.com/iissnan/hexo-theme-next/releases
 [tags-url]: https://github.com/iissnan/hexo-theme-next/tags
 [commits-url]: https://github.com/iissnan/hexo-theme-next/commits/master
->>>>>>> e6fbc37c7287f42c059bd220752b9e598a1a626d
+
 # 个人配置好的next主题
+
